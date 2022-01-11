@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jeng-Ru, a Computer Science Master's Student @ UPenn
 
-You can know more about me from my personal website: https://www.jengruwu.com/.
+You can know more about me from my personal website: https://www.jengruwu.com.
 <!--
 **JengRuWu/JengRuWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
