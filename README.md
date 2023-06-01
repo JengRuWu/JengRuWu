@@ -1,12 +1,12 @@
-## Hi there 👋 I'm Jeng-Ru, a Software Engineer @ Amazon
+<h2>Hi there 👋 I'm Jeng-Ru, a Software Engineer @ Amazon</h2>
 
-I am a software engineer at Amazon, specializing in email security. During my previous internship at Amazon, I designed a scalable spam trap system that collects spam to train an in-house classifier.
+<p>I am a software engineer at Amazon, specializing in email security. During my previous internship at Amazon, I designed a scalable spam trap system that collects spam to train an in-house classifier.</p>
 
-I hold a Master's degree in computer science from UPenn, where I focused on coursework in distributed systems, programming language theory, computer graphics, and network security.
+<p>I hold a Master's degree in computer science from UPenn, where I focused on coursework in distributed systems, programming language theory, computer graphics, and network security.</p>
 
-### Let's Connect
-📫 jengruwu@alumni.upenn.edu
-🔗 jengruwu.com
+<h3>Let's Connect</h3>
+<p>📫 jengruwu@alumni.upenn.edu</p>
+<p>🔗 <a href="https://www.jengruwu.com/" target="blank">My Website</a></p>
 
 
 <!--
