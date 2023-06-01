@@ -2,7 +2,7 @@
 
 <p>I am a software engineer at Amazon, specializing in email security. During my previous internship at Amazon, I designed a scalable spam trap system that collects spam to train an in-house classifier.</p>
 
-<p>I hold a Master's degree in computer science from UPenn, where I focused on coursework in distributed systems, programming language theory, computer graphics, and network security.</p>
+<p>I hold a Master's degree in computer science from UPenn, where I focused on coursework in distributed systems, programming language theory, computer graphics, and network security. I have a Bachelor's degree in business from National Taiwan University, with a concentration in financial engineering.</p>
 
 <h3>Let's Connect</h3>
 <p>
