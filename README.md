@@ -5,8 +5,9 @@
 <p>I hold a Master's degree in computer science from UPenn, where I focused on coursework in distributed systems, programming language theory, computer graphics, and network security.</p>
 
 <h3>Let's Connect</h3>
-<p>📫 jengruwu@alumni.upenn.edu</p>
-<p>🔗 <a href="https://www.jengruwu.com/" target="blank">My Website</a></p>
+<p>📫 jengruwu@alumni.upenn.edu
+  <br>
+  🔗 <a href="https://www.jengruwu.com/" target="blank">My Website</a></p>
 
 
 <!--
