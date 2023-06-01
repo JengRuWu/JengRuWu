@@ -1,10 +1,11 @@
-### Hi there 👋 I'm Jeng-Ru, a Software Engineer @ Amazon
+## Hi there 👋 I'm Jeng-Ru, a Software Engineer @ Amazon
 
 I'm a software engineer at Amazon specializing in email security. During my internship at Amazon, I designed a scalable spam trap system that collects spam to train an in-house classifier. 
 
 I hold a Master's degree in computer science from UPenn, with coursework in distributed systems, programming language theory, computer graphics, and network security. 
 
-## Contact me 
+### Contact me 
+
 <!--
 **JengRuWu/JengRuWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
