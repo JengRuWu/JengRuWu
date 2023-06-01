@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jeng-Ru, a Computer Science Master's Student @ UPenn
+### Hi there 👋 I'm Jeng-Ru, a Software Development Engineer @ Amazon
 
 You can know more about me from my personal website: https://www.jengruwu.com.
 <!--
