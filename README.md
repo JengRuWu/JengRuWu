@@ -10,7 +10,7 @@
   <br>
   🔗  <a href="https://www.jengruwu.com/" target="blank">My Website</a>
   <br>
-  👔  <a href="https://www.linkedin.com/in/jengru-wu/" target="blank">My Linkedin</a>
+  👔  <a href="https://www.linkedin.com/in/jengru-wu/" target="blank">Linkedin</a>
 </p>
 
 
