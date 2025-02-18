@@ -6,7 +6,7 @@
 
 <h3>Let's Connect</h3>
 <p>
-  📫  jengruwu@alumni.upenn.edu
+  📫  wu.jengru@gmail.com
   <br>
   👔  <a href="https://www.linkedin.com/in/jengru-wu/" target="blank">Linkedin</a>
 </p>
